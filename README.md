@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I know just enough to be dangerous, that's all.
+
 <!--
 **EternalllZM/EternalllZM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
