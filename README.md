@@ -2,6 +2,8 @@
 
 I know just enough to be dangerous, that's all.
 
+You know just enough to be a danger to yourself.
+
 <!--
 **EternalllZM/EternalllZM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
